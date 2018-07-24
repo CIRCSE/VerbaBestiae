@@ -1,5 +1,5 @@
 # Verba Bestiae :metal:
-A database of heavy metal lyrics containing Latin and a computational text reuse study with [TRACER](https://www.etrap.eu/research/tracer/) to automatically identify similarities between these lyrics and a selection of ancient Latin texts.
+A database of heavy metal lyrics containing Latin and a computational text reuse study with [TRACER](https://www.etrap.eu/research/tracer/) to automatically identify similarities between the lyrics and a selection of ancient Latin texts.
 
 ## Texts
 
