@@ -11,7 +11,7 @@ The Latin sources used in this study include:
 	<!--* _Missa pro defunctis (Requiem, Dies Irae, Agnus Dei, Libera me)_ | [http://divinumofficium.com/](https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/Latin/Votive/Defunctorum.txt) -->
 	* _Credo_ | [http://divinumofficium.com/](https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/Latin/Ordo/Prayers.txt)
 * Vergil's _Aeneid_ | [The Latin Library](https://github.com/cltk/latin_text_latin_library/tree/master/vergil)
-* _Carmina Burana_ | [The Latin Library?]()
+* _Carmina Burana_ | [Bibliotheca Augustana](http://www.hs-augsburg.de/~harsch/Chronologia/Lspost13/CarminaBurana/bur_car0.html)
 * Catullus' _Carmina_ | [The Latin Library](https://github.com/cltk/latin_text_latin_library/blob/master/catullus.txt)
 * Lucretius' _De Rerum Natura_ | [The Latin Library](https://github.com/cltk/latin_text_latin_library/tree/master/lucretius)
 * Livy' _Ab urbe condita_ | [The Latin Library](https://github.com/cltk/latin_text_latin_library/tree/master/livy)
@@ -20,9 +20,9 @@ The Latin sources used in this study include:
 * Statius' _Thebaid_ | [The Latin Library](https://github.com/cltk/latin_text_latin_library/tree/master/statius)
 * Horace's _Carmina_ | [The Latin Library](https://github.com/cltk/latin_text_latin_library/tree/master/horace)
 * Horace's _Carmen Saeculare_ | [The Latin Library](https://github.com/cltk/latin_text_latin_library/blob/master/horace/carmsaec.txt)
-* Epigrams of John Owen | [The Latin Library?]()
+* Epigrams of John Owen | [The Philological Museum, University of Birmingham](http://www.philological.bham.ac.uk/owen/contents.html)
 * _De Exorcismis et Supplicationibus Quibusdam_ | Cannot be distributed.
-* _Malleus Maleficarum_ | [?]()
+<!--* _Malleus Maleficarum_ | [?]()-->
 
 <!--The texts were cleaned: we removed line numbers, headers, footers, special characters and residual noise.-->
 
@@ -33,7 +33,7 @@ Digitised versions of the following Latin texts are needed in order to extend th
 
 
 ### Heavy metal songs and lyrics
-The heavy metal lyrics cannot be distributed. 
+The heavy metal lyrics cannot be distributed. Source: [Encyclopaedia Metallum](https://www.metal-archives.com/).
 
 
 ### Copyright and acknowledgements
