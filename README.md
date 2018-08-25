@@ -1,5 +1,5 @@
 # Verba Bestiae :metal:
-A database of heavy metal lyrics containing Latin and a computational text reuse study with [TRACER](https://www.etrap.eu/research/tracer/) to automatically identify similarities between the lyrics and a selection of ancient Latin texts.
+A computational text reuse study with [TRACER](https://www.etrap.eu/research/tracer/) to automatically identify similarities between heavy metal lyrics containing Latin and a selection of ancient Latin texts.
 
 <a href="https://giphy.com/gifs/scorpiondagger-metal-guitar-scorpiondagger-pVEzWIXlbw60o" title="Opens in Giphy" target="_blank"><img src="https://github.com/CIRCSE/VerbaBestiae/blob/master/medieval-metal.gif" alt="alt text" width="200" height=""></a>
 
