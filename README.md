@@ -7,7 +7,7 @@ Cecchini, F. M., Franzini, G. H., Passarotti, M. C. (2020), 'Verba Bestiae: How 
 <a href="https://giphy.com/gifs/scorpiondagger-metal-guitar-scorpiondagger-pVEzWIXlbw60o" title="Opens in Giphy" target="_blank"><img src="https://github.com/CIRCSE/VerbaBestiae/blob/master/medieval-metal.gif" alt="alt text" width="200" height=""></a>
 
 ## Corpus of Heavy Metal songs
-Study based on 102 songs taken from the [Encyclopaedia Metallum](https://www.metal-archives.com/). All songs used in this project are listed in our dedicated [Latin Metal](https://www.youtube.com/playlist?list=PLfRLSJGFnfEULZSIBi6LVl_FJJpLiXaVP) YouTube playlist.
+Study based on 102 songs taken from the [Encyclopaedia Metallum](https://www.metal-archives.com/). All songs used in this project are listed in our dedicated [Latin Metal YouTube playlist](https://www.youtube.com/playlist?list=PLfRLSJGFnfEULZSIBi6LVl_FJJpLiXaVP).
 
 | Band | Song | Album | 
 |---|---|---|
