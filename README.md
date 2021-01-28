@@ -117,6 +117,35 @@ The metal songs used in this project are listed in our dedicated [Latin Metal](h
 | Xibalba Itzaes | Furor Antiquus | Ah Dzam Poop Ek |
 
 
+## Corpus of Latin texts
+
+## Most common forms in TFTL
+
+Most common Latin forms per time period, as recorded in the _Thesaurus Formarum Totius Latinitatis_.
+
+| Overall | Antiquity | Patristic Age | Middle Ages | Modern |
+|---|---|---|---|---|
+|deus|dies|deus|deus|deus|
+|dominus|homo|dominus|dominus|homo|
+|homo|pater|filius|homo|uita|
+|filius|deus|homo|christus|anima|
+|christus|terra|pater|sanctus (sancio)|spiritus|
+|pater|uita|christus|filius|terra|
+|sanctus (sancio)|nomen|spiritus|anima|christus|
+|anima|uenio|terra|pater|mundus|
+|spiritus|filius|sancta (sancio)|spiritus|nomen|
+|uita|mors|anima|uita|sanctus (sancio)|
+|terra|anima|uita|terra|dominus|
+|dies|rex|dies|dies|pater|
+|nomen|gloria|nomen|nomen|dies|
+|mors|dominus|mors|mors|mors|
+|uenio|dux|uenio|gloria|filius|
+|mundus|morior/morio|mundus|mundus|uenio|
+|gloria|mundus|gloria|uenio|gloria|
+|rex|spiritus|morior/morio|rex|rex|
+|morior/morio|sanctus (sancio)|rex|morior/morio|morior/morio|
+|dux|-christus-|dux|dux|dux|
+
 
 
 
