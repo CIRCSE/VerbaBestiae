@@ -1,5 +1,5 @@
 # Verba Bestiae :metal:
-A semi-automatic study of the use of Latin in Heavy Metal lyrics. More information available in this repository's [Wiki](https://github.com/CIRCSE/VerbaBestiae/wiki).
+A semi-automatic study of the use of Latin in Heavy Metal lyrics.
 
 ### Citation
 Cecchini, F. M., Franzini, G. H., Passarotti, M. C. (2020), 'Verba Bestiae: How Latin conquered Heavy Metal', In: Valijärvi, R. L., Doesburg, C., DiGioia, A. (eds.) _Multilingual Metal: Sociocultural, Linguistic and Literary Perspectives on Heavy Metal Lyrics Emerald Studies in Metal Music and Culture)_. Emerald Publishing Limited, pp. 241-261. ISBN: 978-18-390994-9-6. DOI: [10.1108/978-1-83909-948-920200021](https://doi.org/10.1108/978-1-83909-948-920200021)
