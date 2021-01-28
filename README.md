@@ -1,5 +1,5 @@
 # Verba Bestiae :metal:
-A semi-automatic study of the use of Latin in Heavy Metal lyrics.
+A semi-automatic study of the use of Latin in Heavy Metal lyrics (2018-ongoing).
 
 ### Citation
 Cecchini, F. M., Franzini, G. H., Passarotti, M. C. (2020), 'Verba Bestiae: How Latin conquered Heavy Metal', In: Valijärvi, R. L., Doesburg, C., DiGioia, A. (eds.) _Multilingual Metal: Sociocultural, Linguistic and Literary Perspectives on Heavy Metal Lyrics Emerald Studies in Metal Music and Culture)_. Emerald Publishing Limited, pp. 241-261. ISBN: 978-18-390994-9-6. DOI: [10.1108/978-1-83909-948-920200021](https://doi.org/10.1108/978-1-83909-948-920200021)
@@ -7,8 +7,7 @@ Cecchini, F. M., Franzini, G. H., Passarotti, M. C. (2020), 'Verba Bestiae: How 
 <a href="https://giphy.com/gifs/scorpiondagger-metal-guitar-scorpiondagger-pVEzWIXlbw60o" title="Opens in Giphy" target="_blank"><img src="https://github.com/CIRCSE/VerbaBestiae/blob/master/medieval-metal.gif" alt="alt text" width="200" height=""></a>
 
 ## Corpus of Heavy Metal songs
-The 102 songs in the _Verba Bestiae_ corpus, alphabetically ordered by band. 
-The metal songs used in this project are listed in our dedicated [Latin Metal](https://www.youtube.com/playlist?list=PLfRLSJGFnfEULZSIBi6LVl_FJJpLiXaVP) YouTube playlist.
+Study based on 102 songs taken from the [Encyclopaedia Metallum](https://www.metal-archives.com/). All songs used in this project are listed in our dedicated [Latin Metal](https://www.youtube.com/playlist?list=PLfRLSJGFnfEULZSIBi6LVl_FJJpLiXaVP) YouTube playlist.
 
 | Band | Song | Album | 
 |---|---|---|
@@ -118,6 +117,24 @@ The metal songs used in this project are listed in our dedicated [Latin Metal](h
 
 
 ## Corpus of Latin texts
+
+The Latin sources used in the study so far are:
+
+- [Vulgata Clementina](https://bitbucket.org/clementinetextproject/vulsearch4)
+- [Divinum Officium](http://divinumofficium.com/) (Roman liturgy)
+- [Vergil's Aeneid](https://github.com/cltk/lat_text_latin_library/tree/master/vergil)
+- [Carmina Burana](http://www.hs-augsburg.de/~harsch/Chronologia/Lspost13/CarminaBurana/bur_car0.html)
+- [Catullus' Carmina](https://github.com/cltk/lat_text_latin_library/blob/master/catullus.txt)
+- [Lucretius' De Rerum Natura](https://github.com/cltk/lat_text_latin_library/tree/master/lucretius)
+- [Livy' Ab urbe condita](https://github.com/cltk/lat_text_latin_library/tree/master/livy)
+- [Ovid's Fasti](https://github.com/cltk/lat_text_latin_library/tree/master/ovid)
+- [Ovid's Metamorphoses](https://github.com/cltk/lat_text_latin_library/tree/master/ovid)
+- [Statius' Thebaid](https://github.com/cltk/lat_text_latin_library/tree/master/statius)
+- [Horace's Carmina](https://github.com/cltk/lat_text_latin_library/tree/master/horace)
+- [Horace's Carmen Saeculare](https://github.com/cltk/lat_text_latin_library/blob/master/horace/carmsaec.txt)
+- [Epigrams of John Owen](http://www.philological.bham.ac.uk/owen/contents.html)
+- De Exorcismis et Supplicationibus Quibusdam
+
 
 ## Most common forms in TFTL
 
